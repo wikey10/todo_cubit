@@ -1,6 +1,6 @@
 # todoapp_cubit
 
-Todo List Flutter Project with CUBIT (Stream Builders).
+Todo List Flutter Project with CUBIT (Stream Subscriptions).
 
 ## Getting Started
 
